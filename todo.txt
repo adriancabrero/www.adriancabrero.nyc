@@ -1,0 +1,11 @@
+Home
+- Clip path with text? subtle animation in background
+- parallax on text
+- fade in?
+
+Work 
+
+About
+
+
+Contact
